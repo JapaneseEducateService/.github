@@ -55,7 +55,7 @@
 <br>
 
 # 5. 프로젝트 구조
-![Newbiesiuuuu Architecture2](https://github.com/Newbiesiuuuu/main/assets/125263770/3420b7f2-c445-4422-b485-aac2a153dc56)
+![Tamago Architecture]()
 
 
 ---
