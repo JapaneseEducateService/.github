@@ -49,7 +49,7 @@
 <br>
 
 # 4. ERD 설계
-<img width="1495" alt="스크린샷 2023-10-16 오전 12 45 04" src="https://github.com/user-attachments/assets/0c4f8573-aa76-4629-9e91-a0b43caad2ec">
+<img width="1495" alt="erdcloud Tamago" src="https://github.com/user-attachments/assets/0c4f8573-aa76-4629-9e91-a0b43caad2ec">
 
 ---
 <br>
