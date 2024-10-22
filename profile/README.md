@@ -5,7 +5,7 @@
 ---
 <br>
 
-# 1. 서비스 소개
+# 1. サービスの紹介
 > **Tamago**は日本語を始めたばかりの初心者たちのための日本語学習支援サービスです。
 ---
 <br>
@@ -16,7 +16,7 @@
 | <a href="https://github.com/GonuKim"><img width="160px" src="https://github.com/user-attachments/assets/ca677114-57e2-4c3d-aacd-f7223cfa3f3b" alt="img"></a> | <a href="https://github.com/hipo-panda"><img width="160px" src="https://github.com/user-attachments/assets/6950518e-1a48-45b5-a9f1-06c1a0b54cb0" alt="img"></a> | <a href="https://github.com/hyobinaaa"><img width="160px" src="https://github.com/user-attachments/assets/ca957775-ae37-4bdc-aa52-125974ccec48" alt="img"></a> | <a href="https://github.com/Ydaehan"><img width="160px" src="https://github.com/user-attachments/assets/1ffe8d36-d1cf-42ca-9b87-52eca1aa38b0" alt="img"></a> | <a href="https://github.com/simsunghwan"><img width="160px" src="https://github.com/user-attachments/assets/ade27e2e-94b0-4ab6-a1bb-c938467af900" alt="img"></a> |
 |                                               [@GonuKim](https://github.com/GonuKim)                                               |                                          [@hipo-panda](https://github.com/hipo-panda)                                          |                                          [@hyobinaaa · he/him](https://github.com/hyobinaaa)                                          |                                                  [@Ydaehan](https://github.com/Ydaehan)                                                  |                                               [@simsunghwan](https://github.com/simsunghwan)                                               |
 
-### 팀 소개
+### チームメンバの紹介
 > Tamagoは永進専門大学3年生の卒業プロジェクトで構成されたチームです。
 
 ---
