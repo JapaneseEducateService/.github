@@ -17,92 +17,92 @@
 |                                               [@GonuKim](https://github.com/GonuKim)                                               |                                          [@hipo-panda](https://github.com/hipo-panda)                                          |                                          [@hyobinaaa · he/him](https://github.com/hyobinaaa)                                          |                                                  [@Ydaehan](https://github.com/Ydaehan)                                                  |                                               [@simsunghwan](https://github.com/simsunghwan)                                               |
 
 ### 팀 소개
-> Tamago는 영진전문대학교 3학년 졸업프로젝트로 구성된 팀입니다. 
+> Tamagoは永進専門大学3年生の卒業プロジェクトで構成されたチームです。
 
 ---
 <br>
 
-# 3. 기능
-### 발음평가
-- **상황별 예문 제공**
-- **문장 TTS음성 생성**
-- **사용자 음성 녹음**
-- **사용자 음성 녹음본에 대한 발음 평가결과 제공**
+# 3. 機能
+### 発音評価
+- **状況別例文提供**
+- **文章TTS音声生成**
+- **ユーザー音声録音**
+- **録音したユーザー音声に対した発音評価の結果を提供**
 
-### 단어 및 문장 학습
-- **사용자 단어장 및 문장노트 생성**   
-- **기본 단어장(JLPT급수별)제공**
-- **암기학습 기능 제공**
-- **문법 학습 가능**
+### 単語および文書学習
+- **ユーザー単語帳と文書ノート作成**   
+- **Default単語帳（格JLPTレベルごとに）**
+- **暗記学習機能提供**
+- **文法学習機能可能**
 
-### 게임
-- **생성된 단어장을 이용한 사지선다형 게임플레이 제공**
-- **카드뒤집기 게임 형식의 단어 암기**
-- **일본어 문장 타자연습 제공**
+### ゲーム
+- **作成された単語帳を使った4択型ゲームプレイ提供**
+- **カード裏返しゲーム形式の単語暗記**
+- **日本語文章タイピング練習を提供**
 
-### 회원
-- **로그인**
-- **소셜 로그인**
-- **회원가입**
-- **사용자 프로필**
+### 会員
+- **ログイン**
+- **ソーシャルログイン**
+- **会員登録**
+- **ユーザープロフィル**
 
 ---
 <br>
 
-# 4. ERD 설계
+# 4. ERD 設計
 <img width="1495" alt="erdcloud Tamago" src="https://github.com/user-attachments/assets/0c4f8573-aa76-4629-9e91-a0b43caad2ec">
 
 ---
 <br>
 
-# 5. 프로젝트 구조
+# 5. プロジェクトの仕組み프로젝트 구조
 ![Tamago Architecture]()
 
 
 ---
 <br>
 
-# 6. 기술 스택
+# 6. 技術スタック
 
-## 프론트엔드
-### 개발 환경
+## Frontend
+### 開発環境
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 언어
+### 言語
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-### 라이브러리
+### ライブラリ
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white)
 ![axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white)
 
-### 디자인
+### デザイン
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 백엔드
+## Backend
 
-### 언어
+### 言語
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-### 데이터베이스
+### データベース
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 프레임워크
+### フレームワーク
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 배포
+## デプロイ
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 협업 도구
+## Project Management Tool
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
@@ -111,7 +111,7 @@
 ---
 <br>
 
-# 7. Commit Message 컨벤션
+# 7. Commit Message コンベンション
 ```
 # ✨ feat : 새로운 기능에 대한 커밋
 # 🐛 fix : 버그 수정에 대한 커밋
